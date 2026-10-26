@@ -1,1 +1,1 @@
-{"allocations": {"NVDA": 20.0, "TSLA": 18.0, "MSTR": 15.0, "AMD": 15.0, "COIN": 12.0, "PLTR": 10.0, "SMCI": 10.0}, "frequency": 30, "name": "", "period": "days"}
+{"allocations": {"NVDA": 20.0, "TSLA": 18.0, "MSTR": 15.0, "AMD": 15.0, "COIN": 12.0, "PLTR": 10.0, "SMCI": 10.0}, "frequency": 30, "name": "Aggressive", "period": "days"}
