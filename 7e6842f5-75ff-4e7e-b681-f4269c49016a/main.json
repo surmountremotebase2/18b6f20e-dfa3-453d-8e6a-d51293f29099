@@ -1,1 +1,1 @@
-{"allocations": {"NVDA": 20.0, "TSLA": 18.0, "MSTR": 15.0, "COIN": 12.0, "AMD": 12.0, "SMCI": 10.0, "PLTR": 8.0, "RIOT": 5.0}, "frequency": 7, "name": "", "period": "days"}
+{"allocations": {"NVDA": 20.0, "TSLA": 18.0, "MSTR": 15.0, "COIN": 12.0, "AMD": 12.0, "SMCI": 10.0, "PLTR": 8.0, "RIOT": 5.0}, "frequency": 30, "name": "30 Day Aggressive portfolio", "period": "days"}
